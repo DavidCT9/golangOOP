@@ -1,6 +1,6 @@
 package main
 
-import "githiub.com/DavidCT9/golangOOP/book"
+import "github.com/DavidCT9/golangOOP/book"
 
 func main() {
 	// Golang doesn't implements OOP
